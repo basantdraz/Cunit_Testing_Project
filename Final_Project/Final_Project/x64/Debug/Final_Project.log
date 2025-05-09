@@ -1,0 +1,114 @@
+﻿  App.c
+  BackEnd.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'App/App.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\App\App.c(19,4): warning C4013: 'Admin_Runner' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\App\App.c(30,3): warning C4013: 'Customer_Runner' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'BackEnd/BackEnd.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(38,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(38,8):
+      consider using '%hhd' in the format string
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(39,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(39,8):
+      consider using '%hhd' in the format string
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(40,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(40,8):
+      consider using '%hd' in the format string
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(203,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(203,10):
+      consider using '%hd' in the format string
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(223,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(223,10):
+      consider using '%hd' in the format string
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(323,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned char *'
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\BackEnd\BackEnd.c(323,10):
+      consider using '%hhd' in the format string
+  
+  course_reg.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Courses_Registeration/course_reg.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Create_Account.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'CreateAccount/Create_Account.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  DB_Manager.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'DB/DB_Manager.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(57,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(150,15): warning C4090: '=': different 'const' qualifiers
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(152,15): warning C4090: '=': different 'const' qualifiers
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(176,15): warning C4090: '=': different 'const' qualifiers
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(178,15): warning C4090: '=': different 'const' qualifiers
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\DB\DB_Manager.c(324,41): warning C4553: '==': result of expression not used; did you intend '='?
+  Login.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Login/Login.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  main.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\main.c(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\main.c(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\main.c(20,16): warning C4101: 'Status': unreferenced local variable
+  Tests.c
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Tests.c')
+      D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(58,2): warning C4550: expression evaluates to a function which is missing an argument list
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(68,2): warning C4550: expression evaluates to a function which is missing an argument list
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(599,24): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(616,24): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(703,8): warning C4013: 'AddStudentToCourse' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(745,3): warning C4550: expression evaluates to a function which is missing an argument list
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(838,3): warning C4013: 'ShowStudentCourses' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(869,4): warning C4013: 'ShowListOfCourses' undefined; assuming extern returning int
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1135,66): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1135,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1136,68): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1136,80): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1137,62): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1137,74): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1138,66): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1138,78): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1139,64): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1139,76): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1140,74): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1140,86): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1141,76): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1141,88): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1142,65): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1142,77): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1143,66): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+D:\Testing\EDGES TestingDeploma Final Project\Final_Project\Test\Tests.c(1143,78): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+  Generating Code...
+cunit.lib(TestDB.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(TestDB.obj)' or at ''; linking object as if no debug info
+cunit.lib(TestRun.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(TestRun.obj)' or at ''; linking object as if no debug info
+cunit.lib(Console.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(Console.obj)' or at ''; linking object as if no debug info
+cunit.lib(CUError.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(CUError.obj)' or at ''; linking object as if no debug info
+cunit.lib(Util.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(Util.obj)' or at ''; linking object as if no debug info
+cunit.lib(MessageHandlers.obj) : warning LNK4099: PDB '' was not found with 'cunit.lib(MessageHandlers.obj)' or at ''; linking object as if no debug info
+  Final_Project.vcxproj -> D:\Testing\EDGES TestingDeploma Final Project\Final_Project\x64\Debug\Final_Project.exe
